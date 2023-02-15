@@ -1,1 +1,5 @@
-# AirBnB_clone_v3
+My first readme
+
+AUTHOURS
+JACKSON MOBE MAINA
+Sylvester Woeyram Sipitey
